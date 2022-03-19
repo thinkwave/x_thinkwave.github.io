@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Gatsby 테마로 GitHub Blog 만들기","categories":"블로그 featured"},"fields":{"slug":"/gatsby-github-blog/"}}},{"node":{"frontmatter":{"title":"쉽고 빠르게 나만의 개츠비(Gatsby) 블로그 만들기","categories":"블로그 featured"},"fields":{"slug":"/gatsby-starter-zoomkoding-introduction/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"맥북에 nvm 설치하는 방법","categories":"블로그 mac"},"fields":{"slug":"/2022-03/2022-03-19_mac-nvm/"}}}]}}}
